@@ -32,3 +32,4 @@ For other systems, please refer to the SDL2 installation instructions specific t
 
 ## Demo
 
+![Raytracing](https://github.com/user-attachments/assets/08936edc-495d-49a2-a63b-fe2f06271763)
